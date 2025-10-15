@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Buscar Plantilla de Documento"
-    id="id-100ce03996f744038d54aacf5326b71d"/>
+    id="id-100ce03996f744038d54aacf5326b71d"
+    documentation="Si el documento ya está creado este proceso no aplica."/>

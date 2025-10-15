@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ubicar la carpeta donde debe ir el archivo"
+    id="id-57e393630c974ff7a8b121a34d68f4f6"
+    documentation="Se debe ubicar la carpeta donde debe ir el documento. De ser necesario se deberá crear una carpeta nueva, o una subcarpeta nueva."/>
