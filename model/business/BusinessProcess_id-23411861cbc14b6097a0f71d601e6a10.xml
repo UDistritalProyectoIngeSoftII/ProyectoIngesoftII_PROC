@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actualizar el Número de la Versión"
+    id="id-23411861cbc14b6097a0f71d601e6a10"
+    documentation="Dependiendo de los cambios realizados, actualizar el númerro de la versión, siguiendo las directrices del documento  de &quot;Directrices de Versionamiento de Artefactos&quot;&#xD;&#xA;"/>
